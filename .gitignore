@@ -1,0 +1,9 @@
+# Robot Framework execution artifacts
+output.xml
+log.html
+report.html
+results/
+selenium-screenshot-*.png
+
+# Local editor settings
+.vscode/
